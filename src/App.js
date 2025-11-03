@@ -128,6 +128,7 @@ function Box({ element }) {
     </div>
   );
 }
+
 function MovieList({ movies }) {
   return (
     <ul className="list">
